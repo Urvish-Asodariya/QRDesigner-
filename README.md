@@ -13,7 +13,7 @@ This project is a Node.js-based web application for generating and customizing Q
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/Urvish-Asodariya/QRDesigner>
    ```
 
 2. Navigate to the project directory:
